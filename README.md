@@ -1,6 +1,7 @@
 <div align="center">
+  
+  <img width="794" alt="Screen Shot 2021-12-16 at 4 34 44 PM" src="https://user-images.githubusercontent.com/79919602/146459505-8407e1a8-4ee7-420e-8bb0-3d8e29e45619.png">
 
-<!--   <img width="792" alt="Screen Shot 2021-09-13 at 11 27 57 AM" src="https://user-images.githubusercontent.com/77650238/133121800-05742fa8-38cf-4af6-92a5-f9d452e9a58c.png"> -->
 
   ## Welcome! 😄
 </div>
