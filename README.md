@@ -10,9 +10,9 @@
   
 I am a Full Stack Developer with a vocation in Mobile and Web Application Development.
 
-Frontend Skills: JavaScript | HTML5 | CSS3 | React.js | Bootstrap
-Backend Skills: Python | Node.js | RESTful API’s | Express.js | MongoDB | MySQL
-Other Technologies: Heroku | GitLab/ GitHub
+Frontend Skills: JavaScript | HTML5 | CSS3 | React.js | Bootstrap. 
+Backend Skills: Python | Node.js | RESTful API’s | Express.js | MongoDB | MySQL  
+Other Technologies: Heroku | GitLab/ GitHub  
 
 ___
 
